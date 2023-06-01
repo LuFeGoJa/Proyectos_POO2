@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"informacionufps","l":"Administrativos"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"informacionufps","l":"Docentes"},{"p":"informacionufps","l":"Estudiantes"},{"p":"informacionufps","l":"Persona"}];updateSearchResults();
